@@ -41,6 +41,10 @@ Part 2: Compute Linear Regression for Each Relationship. Create the following Li
 
 For results see the output_data and WeatherPy.ipynb files.
 
+### Summary
+
+Plots show that getting closer to the equator the temperature rises, but no changes of any significance for humidity, cloudiness and wind speed.
+
 ## VacationPy
 
 ### Purpose
@@ -51,15 +55,15 @@ To use weather data skills to plan future vacations.
 
 Use the Geoapify API and the geoViews Python library to create map visualizations. Complete the following steps:
 
-- [ ] Create a map that displays a point for every city in the city_data_df DataFrame
+- [x] Create a map that displays a point for every city in the city_data_df DataFrame
 
-- [ ] Narrow down the city_data_df DataFrame to find your ideal weather condition
+- [x] Narrow down the city_data_df DataFrame to find your ideal weather condition
 
-- [ ] Create a new DataFrame called hotel_df to store the city, country, coordinates, and humidity
+- [x] Create a new DataFrame called hotel_df to store the city, country, coordinates, and humidity
 
-- [ ] For each city, use the Geoapify API to find the first hotel located within 10,000 meters of your coordinates
+- [x] For each city, use the Geoapify API to find the first hotel located within 10,000 meters of your coordinates
 
-- [ ] Add the hotel name and the country as additional information in the hover message for each city in the map
+- [x] Add the hotel name and the country as additional information in the hover message for each city in the map
 
 ### Results
 
