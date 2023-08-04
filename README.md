@@ -41,6 +41,14 @@ Part 2: Compute Linear Regression for Each Relationship. Create the following Li
 
 For results see the output_data and WeatherPy.ipynb files.
 
+![image](https://github.com/saganaga/python-api-challenge/assets/120337916/87dd9f94-19ff-4c02-93c8-e1b593610d82)
+
+![image](https://github.com/saganaga/python-api-challenge/assets/120337916/32840c4d-1a2f-4cd5-aaf7-a7baa12c55ed)
+
+![image](https://github.com/saganaga/python-api-challenge/assets/120337916/d0afb2ed-43d2-48b3-b897-a73959ee19cc)
+
+![image](https://github.com/saganaga/python-api-challenge/assets/120337916/fbcebf7a-92e8-4427-8e33-67fb6fc64dd5)
+
 ### Summary
 
 Plots show that getting closer to the equator the temperature rises, but no changes of any significance for humidity, cloudiness and wind speed.
